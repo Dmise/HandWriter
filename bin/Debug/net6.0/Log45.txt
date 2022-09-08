@@ -1,0 +1,8 @@
+*** FLOP *** [5c 5h 2h]
+Undefined: bets $2.8
+Undefined: folds
+Undefined: calls $2.8
+*** TURN *** [5c 5h 2h] [5h]
+Undefined: checks
+Undefined: bets $8.4
+Undefined: folds

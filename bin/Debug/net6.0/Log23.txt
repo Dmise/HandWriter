@@ -1,0 +1,31 @@
+Suprema Hand #175: ($0.1/$0.2) undefined game type [2022/02/18 10:14:30 UTC]	
+Table TableName 6-max Seat #3 is the button
+Seat 0: Michel27 ($9.08 in chips)
+Seat 1: Godfather72 ($8 in chips)
+Seat 2: gloker ($8.96 in chips)
+Seat 3: Raffa Souza ($19.06 in chips)
+Seat 4: apolo 13 ($23.14 in chips)
+apolo 13: posts small blind $0.1
+Michel27: posts big blind $0.2
+*** HOLE CARDS ***
+Dealt to gloker [Tc Qh]
+Godfather72: folds
+gloker: calls $0.2
+Raffa Souza: calls $0.2
+apolo 13: calls $0.1
+Michel27: checks
+*** FLOP *** [9h 9c Td]
+apolo 13: checks
+Michel27: checks
+gloker: bets $0.9
+Raffa Souza: folds
+apolo 13: calls $0.9
+Michel27: folds
+*** TURN *** [9h 9c Td] [8h]
+apolo 13: checks
+gloker: checks
+*** RIVER *** [9h 9c Td 8h] [2h]
+apolo 13: bets $1
+gloker: calls $1
+ GameOver message - > 1 players remains
+

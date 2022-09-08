@@ -1,0 +1,17 @@
+C:\Docs\Projects\HellYeah\Suprema\Test\bin\Release\net6.0\HandDataCollector.exe
+C:\Docs\Projects\HellYeah\Suprema\Test\bin\Release\net6.0\HandDataCollector.deps.json
+C:\Docs\Projects\HellYeah\Suprema\Test\bin\Release\net6.0\HandDataCollector.runtimeconfig.json
+C:\Docs\Projects\HellYeah\Suprema\Test\bin\Release\net6.0\HandDataCollector.dll
+C:\Docs\Projects\HellYeah\Suprema\Test\bin\Release\net6.0\ref\HandDataCollector.dll
+C:\Docs\Projects\HellYeah\Suprema\Test\bin\Release\net6.0\HandDataCollector.pdb
+C:\Docs\Projects\HellYeah\Suprema\Test\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Docs\Projects\HellYeah\Suprema\Test\obj\Release\net6.0\HandDataCollector.csproj.AssemblyReference.cache
+C:\Docs\Projects\HellYeah\Suprema\Test\obj\Release\net6.0\HandDataCollector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Docs\Projects\HellYeah\Suprema\Test\obj\Release\net6.0\HandDataCollector.AssemblyInfoInputs.cache
+C:\Docs\Projects\HellYeah\Suprema\Test\obj\Release\net6.0\HandDataCollector.AssemblyInfo.cs
+C:\Docs\Projects\HellYeah\Suprema\Test\obj\Release\net6.0\HandDataCollector.csproj.CoreCompileInputs.cache
+C:\Docs\Projects\HellYeah\Suprema\Test\obj\Release\net6.0\HandDataCollector.csproj.CopyComplete
+C:\Docs\Projects\HellYeah\Suprema\Test\obj\Release\net6.0\HandDataCollector.dll
+C:\Docs\Projects\HellYeah\Suprema\Test\obj\Release\net6.0\ref\HandDataCollector.dll
+C:\Docs\Projects\HellYeah\Suprema\Test\obj\Release\net6.0\HandDataCollector.pdb
+C:\Docs\Projects\HellYeah\Suprema\Test\obj\Release\net6.0\HandDataCollector.genruntimeconfig.cache

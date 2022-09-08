@@ -1,0 +1,386 @@
+//session3
+route: onMsg(0) | {"route":"onMsg","event":"gamestart","data":{"room_status":{"seats":[467007,392459,376280,474935,383381,327969]},"gamer":{"327969":{"uid":327969,"unionID":106,"clubID":343122,"displayID":"Poker_vtp4e","vipLevel":2,"title":0,"iconID":"4","countryCode":"BR","countryCodeIP":"BR","isTicket":0,"status":0,"buyin":1,"puzzle":0},"376280":{"uid":376280,"unionID":106,"clubID":738679,"displayID":"Arley","vipLevel":0,"title":0,"iconID":"f6447195068685885","countryCode":"BR","countryCodeIP":"BR","isTicket":0,"status":0,"buyin":1,"puzzle":0},"383381":{"uid":383381,"unionID":107,"clubID":10524,"displayID":"MolhoCaipira","vipLevel":0,"title":0,"iconID":"/383381/3637ebda75db66262bd9f74e3ef56318.jpg","countryCode":"BR","countryCodeIP":"BR","isTicket":0,"status":0,"buyin":1,"puzzle":0},"392459":{"uid":392459,"unionID":106,"clubID":578874,"displayID":"Garopaba","vipLevel":0,"title":0,"iconID":"/392459/0b20113975f698e2c52e1fcc272ae6f8.jpg","countryCode":"BR","countryCodeIP":"BR","isTicket":0,"status":0,"buyin":1,"puzzle":0},"467007":{"uid":467007,"unionID":106,"clubID":444762,"displayID":"Sampaio1","vipLevel":0,"title":0,"iconID":"8","countryCode":"BR","countryCodeIP":"BR","isTicket":0,"status":0,"buyin":1,"puzzle":0},"474935":{"uid":474935,"unionID":106,"clubID":656187,"displayID":"gloker","vipLevel":0,"title":0,"iconID":"5","countryCode":"RU","countryCodeIP":"RU","isTicket":0,"status":0,"buyin":1,"puzzle":0}},"game_seat":{"327969":{"seat":5,"uid":327969,"coins":26.61,"cards":[0,0],"role":0,"chips":0.04,"chips_round":0.04,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":6.65,"autorebuy":null,"agentID":288885,"autoTimeBank":0,"swap":0},"376280":{"seat":2,"uid":376280,"coins":85.42,"cards":[0,0],"role":0,"chips":0.04,"chips_round":0.04,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":75.46,"autorebuy":null,"agentID":38660,"autoTimeBank":0,"swap":0},"383381":{"seat":4,"uid":383381,"coins":18.84,"cards":[0,0],"role":0,"chips":0.04,"chips_round":0.04,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-1.12,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"392459":{"seat":1,"uid":392459,"coins":19.58,"cards":[0,0],"role":0,"chips":0.04,"chips_round":0.04,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-2.16,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"467007":{"seat":0,"uid":467007,"coins":13.98,"cards":[0,0],"role":0,"chips":0.04,"chips_round":0.04,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":4.02,"autorebuy":null,"agentID":287812,"autoTimeBank":0,"swap":0},"474935":{"seat":3,"uid":474935,"coins":13.86,"cards":[0,0],"role":0,"chips":0.04,"chips_round":0.04,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":3.9,"autorebuy":null,"agentID":474935,"autoTimeBank":0,"swap":0}},"game_info":{"gamers_count":6,"dealer_seat":3,"shared_cards":[],"pot":0.24,"state":2,"game_counter":591,"insurance_chips":0,"insurance_prepay":0,"insuranceMulti":[],"running":true,"type":1},"game_status":{"max_chip":0.04,"last_raise":0.2,"sidepots":[],"allpass":false,"preop":[474935,383381,327969,467007,392459,376280],"straddle":0},"kickoutList":[],"roomID":"14625_2889856","ts":1645204897155,"seqno":591}}
+[2022-02-18 08:21:36.386]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"gamestart","data":{"game_seat":{"327969":{"seat":5,"uid":327969,"coins":26.61,"cards":[0,0],"role":0,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":6.65,"autorebuy":null,"agentID":288885,"autoTimeBank":0,"swap":0},"376280":{"seat":2,"uid":376280,"coins":85.42,"cards":[0,0],"role":0,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":75.46,"autorebuy":null,"agentID":38660,"autoTimeBank":0,"swap":0},"383381":{"seat":4,"uid":383381,"coins":18.84,"cards":[0,0],"role":0,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-1.12,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"392459":{"seat":1,"uid":392459,"coins":19.58,"cards":[0,0],"role":0,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-2.16,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"467007":{"seat":0,"uid":467007,"coins":13.98,"cards":[0,0],"role":0,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":4.02,"autorebuy":null,"agentID":287812,"autoTimeBank":0,"swap":0},"474935":{"seat":3,"uid":474935,"coins":13.86,"cards":[0,0],"role":0,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":3.9,"autorebuy":null,"agentID":474935,"autoTimeBank":0,"swap":0}},"roomID":"14625_2889856","ts":1645204897156,"seqno":591}}
+[2022-02-18 08:21:36.388]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"gamestart","data":{"game_seat":{"327969":{"seat":5,"uid":327969,"coins":26.41,"cards":[0,0],"role":93,"chips":0.24,"chips_round":0.2,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":6.65,"autorebuy":null,"agentID":288885,"autoTimeBank":0,"swap":0},"376280":{"seat":2,"uid":376280,"coins":85.42,"cards":[0,0],"role":0,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":75.46,"autorebuy":null,"agentID":38660,"autoTimeBank":0,"swap":0},"383381":{"seat":4,"uid":383381,"coins":18.74,"cards":[0,0],"role":82,"chips":0.14,"chips_round":0.1,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-1.12,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"392459":{"seat":1,"uid":392459,"coins":19.58,"cards":[0,0],"role":0,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-2.16,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"467007":{"seat":0,"uid":467007,"coins":13.98,"cards":[0,0],"role":0,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":4.02,"autorebuy":null,"agentID":287812,"autoTimeBank":0,"swap":0},"474935":{"seat":3,"uid":474935,"coins":13.86,"cards":[0,0],"role":0,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":3.9,"autorebuy":null,"agentID":474935,"autoTimeBank":0,"swap":0}},"game_status":{"max_chip":0.24,"last_raise":0.2,"sidepots":[0.24],"allpass":false,"preop":[327969,467007,392459,376280,474935,383381]},"roomID":"14625_2889856","ts":1645204897156,"seqno":591}}
+[2022-02-18 08:21:36.390]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","uid":474935,"event":"prompt","data":{"gamer_prompt":{"fold":null,"check":null,"call":null,"raise":null,"all_in":null,"ready":null,"bet":null},"game_seat":{"474935":{"seat":3,"uid":474935,"coins":13.86,"cards":[56,35],"role":0,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":3.9,"autorebuy":null,"agentID":474935,"autoTimeBank":0,"swap":0,"pattern":"","hilopattern":"","vpip":56.52}},"roomID":"14625_2889856#113","ts":1645204897156,"seqno":591},"code":0}
+[2022-02-18 08:21:36.998]
+logMessage :
+[Request]
+HEARTBEAT
+[2022-02-18 08:21:37.131]
+logMessage :
+[Response]
+HEARTBEAT
+[2022-02-18 08:21:37.304]
+logMessage :
+[Response]
+route: onMsg(0) | {"code":0,"route":"onMsg","event":"apiClub.clubHandler.jackpot","apiData":{"event":"apiClub.clubHandler.jackpot","jackpot":{"unionID":106,"clubID":10044,"jackpotOpen":1,"jackpotPool":202470.05,"jackpotOpenNoHiHand":1}}}
+[2022-02-18 08:21:38.411]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"moveturn","data":{"game_seat":{"327969":{"seat":5,"uid":327969,"coins":26.41,"cards":null,"role":93,"chips":0.24,"chips_round":0.2,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":6.65,"autorebuy":null,"agentID":288885,"autoTimeBank":0,"swap":0},"376280":{"seat":2,"uid":376280,"coins":85.42,"cards":null,"role":0,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":75.46,"autorebuy":null,"agentID":38660,"autoTimeBank":0,"swap":0},"383381":{"seat":4,"uid":383381,"coins":18.74,"cards":null,"role":82,"chips":0.14,"chips_round":0.1,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-1.12,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"392459":{"seat":1,"uid":392459,"coins":19.58,"cards":null,"role":0,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-2.16,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"467007":{"seat":0,"uid":467007,"coins":13.98,"cards":null,"role":0,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":4.02,"autorebuy":null,"agentID":287812,"autoTimeBank":0,"swap":0},"474935":{"seat":3,"uid":474935,"coins":13.86,"cards":null,"role":0,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":3.9,"autorebuy":null,"agentID":474935,"autoTimeBank":0,"swap":0}},"game_status":{"max_chip":0.24,"last_raise":0.2,"sidepots":[0.24],"allpass":false,"preop":[467007,392459,376280,474935,383381,327969]},"game_info":{"gamers_count":6,"dealer_seat":3,"shared_cards":[],"pot":0.54,"state":3,"game_counter":591,"insurance_chips":0,"insurance_prepay":0,"insuranceMulti":[],"running":true,"type":1},"countdown":{"seat":0,"sec":15,"stopSec":0},"gamer_prompt":{"fold":null,"check":null,"call":null,"raise":null,"all_in":null,"ready":null,"bet":null},"roomID":"14625_2889856","ts":1645204899159,"seqno":591}}
+[2022-02-18 08:21:38.502]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"countdown","data":{"countdown":{"seat":0,"sec":15,"stopSec":0},"protect":0,"roomID":"14625_2889856","ts":1645204899256,"seqno":591}}
+[2022-02-18 08:21:39.167]
+logMessage :
+[Request]
+HEARTBEAT
+[2022-02-18 08:21:39.299]
+logMessage :
+[Response]
+HEARTBEAT
+[2022-02-18 08:21:41.352]
+logMessage :
+[Request]
+HEARTBEAT
+[2022-02-18 08:21:41.549]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"moveturn","data":{"game_seat":{"327969":{"seat":5,"uid":327969,"coins":26.41,"cards":null,"role":93,"chips":0.24,"chips_round":0.2,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":6.65,"autorebuy":null,"agentID":288885,"autoTimeBank":0,"swap":0},"376280":{"seat":2,"uid":376280,"coins":85.42,"cards":null,"role":0,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":75.46,"autorebuy":null,"agentID":38660,"autoTimeBank":0,"swap":0},"383381":{"seat":4,"uid":383381,"coins":18.74,"cards":null,"role":82,"chips":0.14,"chips_round":0.1,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-1.12,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"392459":{"seat":1,"uid":392459,"coins":19.58,"cards":null,"role":0,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-2.16,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"467007":{"seat":0,"uid":467007,"coins":13.98,"cards":null,"role":40,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":4.02,"autorebuy":null,"agentID":287812,"autoTimeBank":0,"swap":0},"474935":{"seat":3,"uid":474935,"coins":13.86,"cards":null,"role":0,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":3.9,"autorebuy":null,"agentID":474935,"autoTimeBank":0,"swap":0}},"game_status":{"max_chip":0.24,"last_raise":0.2,"sidepots":[0.24],"allpass":false,"preop":[392459,376280,474935,383381,327969]},"game_info":{"gamers_count":5,"dealer_seat":3,"shared_cards":[],"pot":0.54,"state":3,"game_counter":591,"insurance_chips":0,"insurance_prepay":0,"insuranceMulti":[],"running":true,"type":1},"countdown":{"seat":1,"sec":15,"stopSec":0},"gamer_prompt":{"fold":null,"check":null,"call":null,"raise":null,"all_in":null,"ready":null,"bet":null},"roomID":"14625_2889856","ts":1645204902223,"seqno":591}}
+[2022-02-18 08:21:41.549]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"countdown","data":{"countdown":{"seat":1,"sec":15,"stopSec":0},"protect":0,"roomID":"14625_2889856","ts":1645204902260,"seqno":591}}
+[2022-02-18 08:21:41.550]
+logMessage :
+[Response]
+HEARTBEAT
+[2022-02-18 08:21:41.787]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"moveturn","data":{"game_seat":{"327969":{"seat":5,"uid":327969,"coins":26.41,"cards":null,"role":93,"chips":0.24,"chips_round":0.2,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":6.65,"autorebuy":null,"agentID":288885,"autoTimeBank":0,"swap":0},"376280":{"seat":2,"uid":376280,"coins":85.42,"cards":null,"role":0,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":75.46,"autorebuy":null,"agentID":38660,"autoTimeBank":0,"swap":0},"383381":{"seat":4,"uid":383381,"coins":18.74,"cards":null,"role":82,"chips":0.14,"chips_round":0.1,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-1.12,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"392459":{"seat":1,"uid":392459,"coins":19.38,"cards":null,"role":30,"chips":0.24,"chips_round":0.2,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-2.16,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"467007":{"seat":0,"uid":467007,"coins":13.98,"cards":null,"role":40,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":4.02,"autorebuy":null,"agentID":287812,"autoTimeBank":0,"swap":0},"474935":{"seat":3,"uid":474935,"coins":13.86,"cards":null,"role":0,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":3.9,"autorebuy":null,"agentID":474935,"autoTimeBank":0,"swap":0}},"game_status":{"max_chip":0.24,"last_raise":0.2,"sidepots":[0.24],"allpass":false,"preop":[376280,474935,383381,327969]},"game_info":{"gamers_count":5,"dealer_seat":3,"shared_cards":[],"pot":0.74,"state":3,"game_counter":591,"insurance_chips":0,"insurance_prepay":0,"insuranceMulti":[],"running":true,"type":1},"countdown":{"seat":2,"sec":15,"stopSec":0},"gamer_prompt":{"fold":null,"check":null,"call":null,"raise":null,"all_in":null,"ready":null,"bet":null},"roomID":"14625_2889856","ts":1645204902537,"seqno":591}}
+[2022-02-18 08:21:41.906]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"countdown","data":{"countdown":{"seat":2,"sec":15,"stopSec":0},"protect":0,"roomID":"14625_2889856","ts":1645204902660,"seqno":591}}
+[2022-02-18 08:21:42.837]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"updategamer","data":{"gamer":{"388511":{"uid":388511,"unionID":106,"clubID":3021269,"displayID":"ThiagoGtr","vipLevel":0,"title":0,"iconID":"7","countryCode":"BR","countryCodeIP":"BR","isTicket":0,"status":1,"buyin":1,"puzzle":0}},"roomID":"14625_2889856","ts":1645204903590,"seqno":591}}
+[2022-02-18 08:21:43.618]
+logMessage :
+[Request]
+HEARTBEAT
+[2022-02-18 08:21:43.764]
+logMessage :
+[Response]
+HEARTBEAT
+[2022-02-18 08:21:43.876]
+logMessage :
+[Response]
+route: onMsg(0) | {"code":0,"route":"onMsg","event":"matchesStatusPushNotify","apiData":{"event":"matchesStatusPushNotify","matchesStatus":{"matches":[],"unionID":106,"clubID":10044,"playing":1375,"games":1168,"gamesReal":1168,"matchesCreate":[{"unionID":106,"matchID":2899349,"clubID":10044,"playerCount":0,"endtime":"2022-02-18T19:21:43.000Z","tabletime":3600,"isPlaying":false,"isStarted":false,"buyin_auth":false,"mtt_sate_level":0,"queueCount":0,"pendingCount":0,"pinToTop":0,"hasSwap":0,"cappedallin":0,"hasBoomPot":0,"isDoubleBoard":0,"requestCount":0,"type":1,"matchType":6,"name":"SIX 500 HU(1)","ownerID":37724,"displayID":"Mesas S2","iconID":"7","clubIconID":"/20227/abe991d39a688018a01175ccdbfbc7ad.jpg","clubName":"Liga Suprema ADM","starttime":"2022-02-19 01:21:43","remainTime":3600,"maxPlayer":2,"blinds":10,"ante":0,"mtt_ante_only":0,"insuranceDPH":0,"auto_start":"2","minVPIPLimit":0,"minClubVPIPLimit":0,"plohilo":0,"call_time":0,"anonymous":0,"hasJackPot":0,"tableVPIP":0,"hasStraddle":1,"isClubGU":0,"isEcoFriendly":0,"isPrivate":0,"gps":1,"forceStraddle":0,"killPot":0,"blockEmulator":0,"myUnionOwnerClub":10044,"queueNo":0}]},"playing":[]}}
+[2022-02-18 08:21:44.102]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"moveturn","data":{"game_seat":{"327969":{"seat":5,"uid":327969,"coins":26.41,"cards":null,"role":93,"chips":0.24,"chips_round":0.2,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":6.65,"autorebuy":null,"agentID":288885,"autoTimeBank":0,"swap":0},"376280":{"seat":2,"uid":376280,"coins":84.62,"cards":null,"role":50,"chips":0.84,"chips_round":0.8,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":75.46,"autorebuy":null,"agentID":38660,"autoTimeBank":0,"swap":0},"383381":{"seat":4,"uid":383381,"coins":18.74,"cards":null,"role":82,"chips":0.14,"chips_round":0.1,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-1.12,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"392459":{"seat":1,"uid":392459,"coins":19.38,"cards":null,"role":30,"chips":0.24,"chips_round":0.2,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-2.16,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"467007":{"seat":0,"uid":467007,"coins":13.98,"cards":null,"role":40,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":4.02,"autorebuy":null,"agentID":287812,"autoTimeBank":0,"swap":0},"474935":{"seat":3,"uid":474935,"coins":13.86,"cards":null,"role":0,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":3.9,"autorebuy":null,"agentID":474935,"autoTimeBank":0,"swap":0}},"game_status":{"max_chip":0.84,"last_raise":0.6,"sidepots":[0.24],"allpass":false,"preop":[474935,383381,327969,392459]},"game_info":{"gamers_count":5,"dealer_seat":3,"shared_cards":[],"pot":1.54,"state":3,"game_counter":591,"insurance_chips":0,"insurance_prepay":0,"insuranceMulti":[],"running":true,"type":1},"countdown":{"seat":3,"sec":15,"stopSec":0},"gamer_prompt":{"fold":null,"check":null,"call":null,"raise":null,"all_in":null,"ready":null,"bet":null},"roomID":"14625_2889856","ts":1645204904859,"seqno":591}}
+[2022-02-18 08:21:44.103]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","uid":474935,"event":"prompt","data":{"gamer_prompt":{"fold":true,"check":null,"call":true,"raise":"range,0.6,13.06,2X,1.6,3X,2.4,4X,3.2","all_in":true,"ready":null,"bet":null},"roomID":"14625_2889856#113","ts":1645204904860,"seqno":591},"code":0}
+[2022-02-18 08:21:44.104]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"countdown","data":{"countdown":{"seat":3,"sec":15,"stopSec":0},"protect":0,"roomID":"14625_2889856","ts":1645204904862,"seqno":591}}
+[2022-02-18 08:21:45.809]
+logMessage :
+[Request]
+HEARTBEAT
+[2022-02-18 08:21:46.020]
+logMessage :
+[Response]
+HEARTBEAT
+[2022-02-18 08:21:46.265]
+logMessage :
+[Request]
+route: room.roomHandler.clientMessage(0) | {"f":"fold","args":"","roomID":"14625_2889856#113@656187%106","ver":5378,"lan":"en","verPackage":""}
+[2022-02-18 08:21:46.498]
+logMessage :
+[Response]
+route: (0) | {"code":0,"event":"prompt","data":{"gamer_prompt":{"fold":null,"check":null,"call":null,"raise":null,"all_in":null,"ready":null,"bet":null},"game_status":{"max_chip":0.84,"last_raise":0.6,"sidepots":[0.24],"allpass":false,"preop":[]},"roomID":"14625_2889856"}}
+[2022-02-18 08:21:46.512]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"moveturn","data":{"game_seat":{"327969":{"seat":5,"uid":327969,"coins":26.41,"cards":null,"role":93,"chips":0.24,"chips_round":0.2,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":6.65,"autorebuy":null,"agentID":288885,"autoTimeBank":0,"swap":0},"376280":{"seat":2,"uid":376280,"coins":84.62,"cards":null,"role":50,"chips":0.84,"chips_round":0.8,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":75.46,"autorebuy":null,"agentID":38660,"autoTimeBank":0,"swap":0},"383381":{"seat":4,"uid":383381,"coins":18.74,"cards":null,"role":82,"chips":0.14,"chips_round":0.1,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-1.12,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"392459":{"seat":1,"uid":392459,"coins":19.38,"cards":null,"role":30,"chips":0.24,"chips_round":0.2,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-2.16,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"467007":{"seat":0,"uid":467007,"coins":13.98,"cards":null,"role":40,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":4.02,"autorebuy":null,"agentID":287812,"autoTimeBank":0,"swap":0},"474935":{"seat":3,"uid":474935,"coins":13.86,"cards":null,"role":40,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":3.9,"autorebuy":null,"agentID":474935,"autoTimeBank":0,"swap":0}},"game_status":{"max_chip":0.84,"last_raise":0.6,"sidepots":[0.24],"allpass":false,"preop":[383381,327969,392459]},"game_info":{"gamers_count":4,"dealer_seat":3,"shared_cards":[],"pot":1.54,"state":3,"game_counter":591,"insurance_chips":0,"insurance_prepay":0,"insuranceMulti":[],"running":true,"type":1},"countdown":{"seat":4,"sec":15,"stopSec":0},"gamer_prompt":{"fold":null,"check":null,"call":null,"raise":null,"all_in":null,"ready":null,"bet":null},"roomID":"14625_2889856","ts":1645204907262,"seqno":591}}
+[2022-02-18 08:21:46.514]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"countdown","data":{"countdown":{"seat":4,"sec":15,"stopSec":0},"protect":0,"roomID":"14625_2889856","ts":1645204907265,"seqno":591}}
+[2022-02-18 08:21:48.078]
+logMessage :
+[Request]
+HEARTBEAT
+[2022-02-18 08:21:48.184]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"updategamer","data":{"gamer":{"388511":{"uid":388511,"status":2}},"roomID":"14625_2889856","ts":1645204908935,"seqno":591}}
+[2022-02-18 08:21:48.211]
+logMessage :
+[Response]
+HEARTBEAT
+[2022-02-18 08:21:48.681]
+logMessage :
+[Response]
+route: onMsg(0) | {"code":0,"route":"onMsg","event":"apiClub.clubHandler.jackpot","apiData":{"event":"apiClub.clubHandler.jackpot","jackpot":{"unionID":106,"clubID":10044,"jackpotOpen":1,"jackpotPool":202477.05,"jackpotOpenNoHiHand":1}}}
+[2022-02-18 08:21:49.167]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"moveturn","data":{"game_seat":{"327969":{"seat":5,"uid":327969,"coins":26.41,"cards":null,"role":93,"chips":0.24,"chips_round":0.2,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":6.65,"autorebuy":null,"agentID":288885,"autoTimeBank":0,"swap":0},"376280":{"seat":2,"uid":376280,"coins":84.62,"cards":null,"role":50,"chips":0.84,"chips_round":0.8,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":75.46,"autorebuy":null,"agentID":38660,"autoTimeBank":0,"swap":0},"383381":{"seat":4,"uid":383381,"coins":18.74,"cards":null,"role":42,"chips":0.14,"chips_round":0.1,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-1.12,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"392459":{"seat":1,"uid":392459,"coins":19.38,"cards":null,"role":30,"chips":0.24,"chips_round":0.2,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-2.16,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"467007":{"seat":0,"uid":467007,"coins":13.98,"cards":null,"role":40,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":4.02,"autorebuy":null,"agentID":287812,"autoTimeBank":0,"swap":0},"474935":{"seat":3,"uid":474935,"coins":13.86,"cards":null,"role":40,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":3.9,"autorebuy":null,"agentID":474935,"autoTimeBank":0,"swap":0}},"game_status":{"max_chip":0.84,"last_raise":0.6,"sidepots":[0.24],"allpass":false,"preop":[327969,392459]},"game_info":{"gamers_count":3,"dealer_seat":3,"shared_cards":[],"pot":1.54,"state":3,"game_counter":591,"insurance_chips":0,"insurance_prepay":0,"insuranceMulti":[],"running":true,"type":1},"countdown":{"seat":5,"sec":15,"stopSec":0},"gamer_prompt":{"fold":null,"check":null,"call":null,"raise":null,"all_in":null,"ready":null,"bet":null},"roomID":"14625_2889856","ts":1645204909916,"seqno":591}}
+[2022-02-18 08:21:49.314]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"countdown","data":{"countdown":{"seat":5,"sec":15,"stopSec":0},"protect":0,"roomID":"14625_2889856","ts":1645204910068,"seqno":591}}
+[2022-02-18 08:21:50.259]
+logMessage :
+[Request]
+HEARTBEAT
+[2022-02-18 08:21:50.419]
+logMessage :
+[Response]
+HEARTBEAT
+[2022-02-18 08:21:52.440]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"moveturn","data":{"game_seat":{"327969":{"seat":5,"uid":327969,"coins":25.81,"cards":null,"role":33,"chips":0.84,"chips_round":0.8,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":6.65,"autorebuy":null,"agentID":288885,"autoTimeBank":0,"swap":0},"376280":{"seat":2,"uid":376280,"coins":84.62,"cards":null,"role":50,"chips":0.84,"chips_round":0.8,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":75.46,"autorebuy":null,"agentID":38660,"autoTimeBank":0,"swap":0},"383381":{"seat":4,"uid":383381,"coins":18.74,"cards":null,"role":42,"chips":0.14,"chips_round":0.1,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-1.12,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"392459":{"seat":1,"uid":392459,"coins":19.38,"cards":null,"role":30,"chips":0.24,"chips_round":0.2,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-2.16,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"467007":{"seat":0,"uid":467007,"coins":13.98,"cards":null,"role":40,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":4.02,"autorebuy":null,"agentID":287812,"autoTimeBank":0,"swap":0},"474935":{"seat":3,"uid":474935,"coins":13.86,"cards":null,"role":40,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":3.9,"autorebuy":null,"agentID":474935,"autoTimeBank":0,"swap":0}},"game_status":{"max_chip":0.84,"last_raise":0.6,"sidepots":[0.24],"allpass":false,"preop":[392459]},"game_info":{"gamers_count":3,"dealer_seat":3,"shared_cards":[],"pot":2.14,"state":3,"game_counter":591,"insurance_chips":0,"insurance_prepay":0,"insuranceMulti":[],"running":true,"type":1},"countdown":{"seat":1,"sec":15,"stopSec":0},"gamer_prompt":{"fold":null,"check":null,"call":null,"raise":null,"all_in":null,"ready":null,"bet":null},"roomID":"14625_2889856","ts":1645204913189,"seqno":591}}
+[2022-02-18 08:21:52.459]
+logMessage :
+[Request]
+HEARTBEAT
+[2022-02-18 08:21:52.517]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"countdown","data":{"countdown":{"seat":1,"sec":15,"stopSec":0},"protect":0,"roomID":"14625_2889856","ts":1645204913271,"seqno":591}}
+[2022-02-18 08:21:52.603]
+logMessage :
+[Response]
+HEARTBEAT
+[2022-02-18 08:21:53.723]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"moveturn","data":{"game_seat":{"327969":{"seat":5,"uid":327969,"coins":25.81,"cards":null,"role":33,"chips":0.84,"chips_round":0.8,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":6.65,"autorebuy":null,"agentID":288885,"autoTimeBank":0,"swap":0},"376280":{"seat":2,"uid":376280,"coins":84.62,"cards":null,"role":50,"chips":0.84,"chips_round":0.8,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":75.46,"autorebuy":null,"agentID":38660,"autoTimeBank":0,"swap":0},"383381":{"seat":4,"uid":383381,"coins":18.74,"cards":null,"role":42,"chips":0.14,"chips_round":0.1,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-1.12,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"392459":{"seat":1,"uid":392459,"coins":18.78,"cards":null,"role":30,"chips":0.84,"chips_round":0.8,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-2.16,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"467007":{"seat":0,"uid":467007,"coins":13.98,"cards":null,"role":40,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":4.02,"autorebuy":null,"agentID":287812,"autoTimeBank":0,"swap":0},"474935":{"seat":3,"uid":474935,"coins":13.86,"cards":null,"role":40,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":3.9,"autorebuy":null,"agentID":474935,"autoTimeBank":0,"swap":0}},"game_status":{"max_chip":0.84,"last_raise":0.6,"sidepots":[0.24],"allpass":false,"preop":[]},"game_info":{"gamers_count":3,"dealer_seat":3,"shared_cards":[],"pot":2.74,"state":3,"game_counter":591,"insurance_chips":0,"insurance_prepay":0,"insuranceMulti":[],"running":true,"type":1},"countdown":{"seat":-1,"sec":0},"gamer_prompt":{"fold":null,"check":null,"call":null,"raise":null,"all_in":null,"ready":null,"bet":null},"roomID":"14625_2889856","ts":1645204914474,"seqno":591}}
+[2022-02-18 08:21:54.660]
+logMessage :
+[Request]
+HEARTBEAT
+[2022-02-18 08:21:54.723]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"moveturn","data":{"game_seat":{"327969":{"seat":5,"uid":327969,"coins":25.81,"cards":null,"role":3,"chips":0.84,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":6.65,"autorebuy":null,"agentID":288885,"autoTimeBank":0,"swap":0},"376280":{"seat":2,"uid":376280,"coins":84.62,"cards":null,"role":0,"chips":0.84,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":75.46,"autorebuy":null,"agentID":38660,"autoTimeBank":0,"swap":0},"383381":{"seat":4,"uid":383381,"coins":18.74,"cards":null,"role":42,"chips":0.14,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-1.12,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"392459":{"seat":1,"uid":392459,"coins":18.78,"cards":null,"role":0,"chips":0.84,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-2.16,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"467007":{"seat":0,"uid":467007,"coins":13.98,"cards":null,"role":40,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":4.02,"autorebuy":null,"agentID":287812,"autoTimeBank":0,"swap":0},"474935":{"seat":3,"uid":474935,"coins":13.86,"cards":null,"role":40,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":3.9,"autorebuy":null,"agentID":474935,"autoTimeBank":0,"swap":0}},"game_status":{"max_chip":0.84,"last_raise":0.2,"sidepots":[2.74],"allpass":false,"preop":[327969,392459,376280]},"game_info":{"gamers_count":3,"dealer_seat":3,"shared_cards":[22,36,50],"pot":2.74,"state":4,"game_counter":591,"insurance_chips":0,"insurance_prepay":0,"insuranceMulti":[],"running":true,"type":1},"countdown":{"seat":-1,"sec":0},"gamer_prompt":{"fold":null,"check":null,"call":null,"raise":null,"all_in":null,"ready":null,"bet":null},"roomID":"14625_2889856","ts":1645204915474,"seqno":591}}
+[2022-02-18 08:21:54.807]
+logMessage :
+[Response]
+HEARTBEAT
+[2022-02-18 08:21:55.123]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"countdown","data":{"countdown":{"seat":5,"sec":15,"stopSec":0},"protect":0,"roomID":"14625_2889856","ts":1645204915878,"seqno":591}}
+[2022-02-18 08:21:56.860]
+logMessage :
+[Request]
+HEARTBEAT
+[2022-02-18 08:21:57.000]
+logMessage :
+[Response]
+HEARTBEAT
+[2022-02-18 08:21:59.044]
+logMessage :
+[Request]
+HEARTBEAT
+[2022-02-18 08:21:59.116]
+logMessage :
+[Response]
+route: onMsg(0) | {"code":0,"route":"onMsg","event":"apiClub.clubHandler.jackpot","apiData":{"event":"apiClub.clubHandler.jackpot","jackpot":{"unionID":106,"clubID":10044,"jackpotOpen":1,"jackpotPool":202484.05,"jackpotOpenNoHiHand":1}}}
+[2022-02-18 08:21:59.176]
+logMessage :
+[Response]
+HEARTBEAT
+[2022-02-18 08:22:00.131]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"countdown","data":{"countdown":{"seat":5,"sec":10,"sync":1,"stopSec":0},"protect":0,"roomID":"14625_2889856","ts":1645204920886,"seqno":591}}
+[2022-02-18 08:22:01.208]
+logMessage :
+[Request]
+HEARTBEAT
+[2022-02-18 08:22:01.347]
+logMessage :
+[Response]
+HEARTBEAT
+[2022-02-18 08:22:03.393]
+logMessage :
+[Request]
+HEARTBEAT
+[2022-02-18 08:22:03.535]
+logMessage :
+[Response]
+HEARTBEAT
+[2022-02-18 08:22:05.140]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"countdown","data":{"countdown":{"seat":5,"sec":5,"sync":1,"stopSec":0},"protect":0,"roomID":"14625_2889856","ts":1645204925892,"seqno":591}}
+[2022-02-18 08:22:05.563]
+logMessage :
+[Request]
+HEARTBEAT
+[2022-02-18 08:22:05.705]
+logMessage :
+[Response]
+HEARTBEAT
+[2022-02-18 08:22:06.797]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"moveturn","data":{"game_seat":{"327969":{"seat":5,"uid":327969,"coins":25.81,"cards":null,"role":13,"chips":0.84,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":6.65,"autorebuy":null,"agentID":288885,"autoTimeBank":0,"swap":0},"376280":{"seat":2,"uid":376280,"coins":84.62,"cards":null,"role":0,"chips":0.84,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":75.46,"autorebuy":null,"agentID":38660,"autoTimeBank":0,"swap":0},"383381":{"seat":4,"uid":383381,"coins":18.74,"cards":null,"role":42,"chips":0.14,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-1.12,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"392459":{"seat":1,"uid":392459,"coins":18.78,"cards":null,"role":0,"chips":0.84,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-2.16,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"467007":{"seat":0,"uid":467007,"coins":13.98,"cards":null,"role":40,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":4.02,"autorebuy":null,"agentID":287812,"autoTimeBank":0,"swap":0},"474935":{"seat":3,"uid":474935,"coins":13.86,"cards":null,"role":40,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":3.9,"autorebuy":null,"agentID":474935,"autoTimeBank":0,"swap":0}},"game_status":{"max_chip":0.84,"last_raise":0.2,"sidepots":[2.74],"allpass":false,"preop":[392459,376280]},"game_info":{"gamers_count":3,"dealer_seat":3,"shared_cards":[22,36,50],"pot":2.74,"state":4,"game_counter":591,"insurance_chips":0,"insurance_prepay":0,"insuranceMulti":[],"running":true,"type":1},"countdown":{"seat":1,"sec":15,"stopSec":0},"gamer_prompt":{"fold":null,"check":null,"call":null,"raise":null,"all_in":null,"ready":null,"bet":null},"roomID":"14625_2889856","ts":1645204927548,"seqno":591}}
+[2022-02-18 08:22:06.940]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"countdown","data":{"countdown":{"seat":1,"sec":15,"stopSec":0},"protect":0,"roomID":"14625_2889856","ts":1645204927694,"seqno":591}}
+[2022-02-18 08:22:07.104]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"moveturn","data":{"game_seat":{"327969":{"seat":5,"uid":327969,"coins":25.81,"cards":null,"role":13,"chips":0.84,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":6.65,"autorebuy":null,"agentID":288885,"autoTimeBank":0,"swap":0},"376280":{"seat":2,"uid":376280,"coins":84.62,"cards":null,"role":0,"chips":0.84,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":75.46,"autorebuy":null,"agentID":38660,"autoTimeBank":0,"swap":0},"383381":{"seat":4,"uid":383381,"coins":18.74,"cards":null,"role":42,"chips":0.14,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-1.12,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"392459":{"seat":1,"uid":392459,"coins":18.78,"cards":null,"role":10,"chips":0.84,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-2.16,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"467007":{"seat":0,"uid":467007,"coins":13.98,"cards":null,"role":40,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":4.02,"autorebuy":null,"agentID":287812,"autoTimeBank":0,"swap":0},"474935":{"seat":3,"uid":474935,"coins":13.86,"cards":null,"role":40,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":3.9,"autorebuy":null,"agentID":474935,"autoTimeBank":0,"swap":0}},"game_status":{"max_chip":0.84,"last_raise":0.2,"sidepots":[2.74],"allpass":false,"preop":[376280]},"game_info":{"gamers_count":3,"dealer_seat":3,"shared_cards":[22,36,50],"pot":2.74,"state":4,"game_counter":591,"insurance_chips":0,"insurance_prepay":0,"insuranceMulti":[],"running":true,"type":1},"countdown":{"seat":2,"sec":15,"stopSec":0},"gamer_prompt":{"fold":null,"check":null,"call":null,"raise":null,"all_in":null,"ready":null,"bet":null},"roomID":"14625_2889856","ts":1645204927854,"seqno":591}}
+[2022-02-18 08:22:07.105]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"countdown","data":{"countdown":{"seat":2,"sec":15,"stopSec":0},"protect":0,"roomID":"14625_2889856","ts":1645204927895,"seqno":591}}
+[2022-02-18 08:22:07.762]
+logMessage :
+[Request]
+HEARTBEAT
+[2022-02-18 08:22:07.907]
+logMessage :
+[Response]
+HEARTBEAT
+[2022-02-18 08:22:09.052]
+logMessage :
+[Response]
+route: onMsg(0) | {"code":0,"route":"onMsg","event":"matchesStatusPushNotify","apiData":{"event":"matchesStatusPushNotify","matchesStatus":{"matches":[],"unionID":106,"clubID":10044,"playing":1380,"games":1167,"gamesReal":1167,"matchesDelete":[{"type":2,"matchID":2894294,"myUnionOwnerClub":10044,"queueNo":0}]},"playing":[]}}
+[2022-02-18 08:22:09.058]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"moveturn","data":{"game_seat":{"327969":{"seat":5,"uid":327969,"coins":25.81,"cards":null,"role":13,"chips":0.84,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":6.65,"autorebuy":null,"agentID":288885,"autoTimeBank":0,"swap":0},"376280":{"seat":2,"uid":376280,"coins":81.88,"cards":null,"role":70,"chips":3.58,"chips_round":2.74,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":75.46,"autorebuy":null,"agentID":38660,"autoTimeBank":0,"swap":0},"383381":{"seat":4,"uid":383381,"coins":18.74,"cards":null,"role":42,"chips":0.14,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-1.12,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"392459":{"seat":1,"uid":392459,"coins":18.78,"cards":null,"role":10,"chips":0.84,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-2.16,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"467007":{"seat":0,"uid":467007,"coins":13.98,"cards":null,"role":40,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":4.02,"autorebuy":null,"agentID":287812,"autoTimeBank":0,"swap":0},"474935":{"seat":3,"uid":474935,"coins":13.86,"cards":null,"role":40,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":3.9,"autorebuy":null,"agentID":474935,"autoTimeBank":0,"swap":0}},"game_status":{"max_chip":3.58,"last_raise":2.74,"sidepots":[2.74],"allpass":false,"preop":[327969,392459]},"game_info":{"gamers_count":3,"dealer_seat":3,"shared_cards":[22,36,50],"pot":5.48,"state":4,"game_counter":591,"insurance_chips":0,"insurance_prepay":0,"insuranceMulti":[],"running":true,"type":1},"countdown":{"seat":5,"sec":15,"stopSec":0},"gamer_prompt":{"fold":null,"check":null,"call":null,"raise":null,"all_in":null,"ready":null,"bet":null},"roomID":"14625_2889856","ts":1645204929809,"seqno":591}}
+[2022-02-18 08:22:09.142]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"countdown","data":{"countdown":{"seat":5,"sec":15,"stopSec":0},"protect":0,"roomID":"14625_2889856","ts":1645204929897,"seqno":591}}
+[2022-02-18 08:22:09.826]
+logMessage :
+[Response]
+route: onMsg(0) | {"code":0,"route":"onMsg","event":"apiClub.clubHandler.jackpot","apiData":{"event":"apiClub.clubHandler.jackpot","jackpot":{"unionID":106,"clubID":10044,"jackpotOpen":1,"jackpotPool":202491.95,"jackpotOpenNoHiHand":1}}}
+[2022-02-18 08:22:09.958]
+logMessage :
+[Request]
+HEARTBEAT
+[2022-02-18 08:22:10.103]
+logMessage :
+[Response]
+HEARTBEAT
+[2022-02-18 08:22:12.159]
+logMessage :
+[Request]
+HEARTBEAT
+[2022-02-18 08:22:12.303]
+logMessage :
+[Response]
+HEARTBEAT
+[2022-02-18 08:22:14.146]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"countdown","data":{"countdown":{"seat":5,"sec":10,"sync":1,"stopSec":0},"protect":0,"roomID":"14625_2889856","ts":1645204934900,"seqno":591}}
+[2022-02-18 08:22:14.325]
+logMessage :
+[Request]
+HEARTBEAT
+[2022-02-18 08:22:14.473]
+logMessage :
+[Response]
+HEARTBEAT
+[2022-02-18 08:22:16.526]
+logMessage :
+[Request]
+HEARTBEAT
+[2022-02-18 08:22:16.668]
+logMessage :
+[Response]
+HEARTBEAT
+[2022-02-18 08:22:18.696]
+logMessage :
+[Request]
+HEARTBEAT
+[2022-02-18 08:22:18.836]
+logMessage :
+[Response]
+HEARTBEAT
+[2022-02-18 08:22:19.152]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"countdown","data":{"countdown":{"seat":5,"sec":5,"sync":1,"stopSec":0},"protect":0,"roomID":"14625_2889856","ts":1645204939906,"seqno":591}}
+[2022-02-18 08:22:19.539]
+logMessage :
+[Response]
+route: onMsg(0) | {"code":0,"route":"onMsg","event":"matchesStatusPushNotify","apiData":{"event":"matchesStatusPushNotify","matchesStatus":{"matches":[],"unionID":106,"clubID":10044,"playing":1376,"games":1166,"gamesReal":1166,"matchesDelete":[{"type":2,"matchID":2897617,"myUnionOwnerClub":10044,"queueNo":0},{"type":2,"matchID":2897619,"myUnionOwnerClub":10044,"queueNo":0},{"type":2,"matchID":2894252,"myUnionOwnerClub":10044,"queueNo":0}],"matchesCreate":[{"unionID":106,"matchID":2899351,"clubID":10044,"playerCount":0,"endtime":"2022-02-18T19:22:15.000Z","tabletime":3600,"isPlaying":false,"isStarted":false,"buyin_auth":false,"mtt_sate_level":0,"queueCount":0,"pendingCount":0,"pinToTop":0,"hasSwap":0,"cappedallin":0,"hasBoomPot":0,"isDoubleBoard":0,"requestCount":0,"type":1,"matchType":5,"name":"FIVE 1.5K HU","ownerID":37722,"displayID":"Mesas S1","iconID":"2","clubIconID":"/20227/abe991d39a688018a01175ccdbfbc7ad.jpg","clubName":"Liga Suprema ADM","starttime":"2022-02-19 01:22:15","remainTime":3600,"maxPlayer":2,"blinds":30,"ante":0,"mtt_ante_only":0,"insuranceDPH":0,"auto_start":"2","minVPIPLimit":0,"minClubVPIPLimit":0,"plohilo":0,"call_time":0,"anonymous":0,"hasJackPot":0,"tableVPIP":0,"hasStraddle":1,"isClubGU":0,"isEcoFriendly":0,"isPrivate":0,"gps":1,"forceStraddle":0,"killPot":0,"blockEmulator":0,"myUnionOwnerClub":10044,"queueNo":0},{"unionID":106,"matchID":2899352,"clubID":10044,"playerCount":0,"endtime":"2022-02-18T19:22:18.000Z","tabletime":1800,"isPlaying":false,"isStarted":false,"buyin_auth":false,"mtt_sate_level":0,"queueCount":0,"pendingCount":0,"pinToTop":0,"hasSwap":0,"cappedallin":0,"hasBoomPot":0,"isDoubleBoard":0,"requestCount":0,"type":1,"matchType":3,"name":"ULT 50","ownerID":37722,"displayID":"Mesas S1","iconID":"2","clubIconID":"/20227/abe991d39a688018a01175ccdbfbc7ad.jpg","clubName":"Liga Suprema ADM","starttime":"2022-02-19 01:22:18","remainTime":1800,"maxPlayer":3,"blinds":0.5,"ante":0,"mtt_ante_only":0,"insuranceDPH":0,"auto_start":"2","minVPIPLimit":0,"minClubVPIPLimit":0,"plohilo":0,"call_time":0,"anonymous":0,"hasJackPot":0,"tableVPIP":0,"hasStraddle":0,"isClubGU":0,"isEcoFriendly":0,"isPrivate":0,"gps":1,"forceStraddle":0,"killPot":0,"blockEmulator":0,"ofc_progressive":0,"ofc_ultimate":1,"ofc_joker":false,"ofc_sequential":false,"myUnionOwnerClub":10044,"queueNo":0}]},"playing":[]}}
+[2022-02-18 08:22:20.001]
+logMessage :
+[Response]
+route: onMsg(0) | {"code":0,"route":"onMsg","event":"apiClub.clubHandler.jackpot","apiData":{"event":"apiClub.clubHandler.jackpot","jackpot":{"unionID":106,"clubID":10044,"jackpotOpen":1,"jackpotPool":202511.45,"jackpotOpenNoHiHand":1}}}
+[2022-02-18 08:22:20.877]
+logMessage :
+[Request]
+HEARTBEAT
+[2022-02-18 08:22:21.019]
+logMessage :
+[Response]
+HEARTBEAT
+[2022-02-18 08:22:23.046]
+logMessage :
+[Request]
+HEARTBEAT
+[2022-02-18 08:22:23.154]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"countdown","data":{"countdown":{"seat":5,"sec":1,"sync":1,"stopSec":0},"protect":0,"roomID":"14625_2889856","ts":1645204943909,"seqno":591}}
+[2022-02-18 08:22:23.180]
+logMessage :
+[Response]
+HEARTBEAT
+[2022-02-18 08:22:24.651]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"updategamer","data":{"gamer":{"374847":{"uid":374847,"unionID":107,"clubID":1551808,"displayID":"Elenales","vipLevel":0,"title":0,"iconID":"2","countryCode":"BR","countryCodeIP":"CA","isTicket":0,"status":1,"buyin":0,"puzzle":-1}},"roomID":"14625_2889856","ts":1645204945404,"seqno":591}}
+[2022-02-18 08:22:25.211]
+logMessage :
+[Request]
+HEARTBEAT
+[2022-02-18 08:22:25.355]
+logMessage :
+[Response]
+HEARTBEAT
+[2022-02-18 08:22:26.561]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"moveturn","data":{"game_seat":{"327969":{"seat":5,"uid":327969,"coins":25.81,"cards":null,"role":43,"chips":0.84,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":6.65,"autorebuy":null,"agentID":288885,"autoTimeBank":0,"swap":0},"376280":{"seat":2,"uid":376280,"coins":81.88,"cards":null,"role":70,"chips":3.58,"chips_round":2.74,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":75.46,"autorebuy":null,"agentID":38660,"autoTimeBank":0,"swap":0},"383381":{"seat":4,"uid":383381,"coins":18.74,"cards":null,"role":42,"chips":0.14,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-1.12,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"392459":{"seat":1,"uid":392459,"coins":18.78,"cards":null,"role":10,"chips":0.84,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-2.16,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"467007":{"seat":0,"uid":467007,"coins":13.98,"cards":null,"role":40,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":4.02,"autorebuy":null,"agentID":287812,"autoTimeBank":0,"swap":0},"474935":{"seat":3,"uid":474935,"coins":13.86,"cards":null,"role":40,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":3.9,"autorebuy":null,"agentID":474935,"autoTimeBank":0,"swap":0}},"game_status":{"max_chip":3.58,"last_raise":2.74,"sidepots":[2.74],"allpass":false,"preop":[392459]},"game_info":{"gamers_count":2,"dealer_seat":3,"shared_cards":[22,36,50],"pot":5.48,"state":4,"game_counter":591,"insurance_chips":0,"insurance_prepay":0,"insuranceMulti":[],"running":true,"type":1},"countdown":{"seat":1,"sec":15,"stopSec":0},"gamer_prompt":{"fold":null,"check":null,"call":null,"raise":null,"all_in":null,"ready":null,"bet":null},"roomID":"14625_2889856","ts":1645204947112,"seqno":591}}
+[2022-02-18 08:22:26.563]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"countdown","data":{"countdown":{"seat":1,"sec":15,"stopSec":0},"protect":0,"roomID":"14625_2889856","ts":1645204947314,"seqno":591}}
+[2022-02-18 08:22:26.643]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"moveturn","data":{"game_seat":{"327969":{"seat":5,"uid":327969,"coins":25.81,"cards":null,"role":43,"chips":0.84,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":6.65,"autorebuy":null,"agentID":288885,"autoTimeBank":0,"swap":0},"376280":{"seat":2,"uid":376280,"coins":84.62,"cards":null,"role":70,"chips":0.84,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":75.46,"autorebuy":null,"agentID":38660,"autoTimeBank":0,"swap":0},"383381":{"seat":4,"uid":383381,"coins":18.74,"cards":null,"role":42,"chips":0.14,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-1.12,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"392459":{"seat":1,"uid":392459,"coins":18.78,"cards":null,"role":40,"chips":0.84,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-2.16,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"467007":{"seat":0,"uid":467007,"coins":13.98,"cards":null,"role":40,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":4.02,"autorebuy":null,"agentID":287812,"autoTimeBank":0,"swap":0},"474935":{"seat":3,"uid":474935,"coins":13.86,"cards":null,"role":40,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":3.9,"autorebuy":null,"agentID":474935,"autoTimeBank":0,"swap":0}},"game_status":{"max_chip":0.84,"last_raise":2.74,"sidepots":[2.74],"allpass":false,"preop":[]},"game_info":{"gamers_count":1,"dealer_seat":3,"shared_cards":[22,36,50],"pot":2.74,"state":4,"game_counter":591,"insurance_chips":0,"insurance_prepay":0,"insuranceMulti":[],"running":true,"type":1},"countdown":{"seat":1,"sec":14,"stopSec":0},"gamer_prompt":{"fold":null,"check":null,"call":null,"raise":null,"all_in":null,"ready":null,"bet":null},"roomID":"14625_2889856","ts":1645204947393,"seqno":591}}
+[2022-02-18 08:22:26.644]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"moveturn","data":{"game_seat":{"327969":{"seat":5,"uid":327969,"coins":25.81,"cards":null,"role":43,"chips":0.84,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":6.65,"autorebuy":null,"agentID":288885,"autoTimeBank":0,"swap":0},"376280":{"seat":2,"uid":376280,"coins":84.62,"cards":null,"role":0,"chips":0.84,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":75.46,"autorebuy":null,"agentID":38660,"autoTimeBank":0,"swap":0},"383381":{"seat":4,"uid":383381,"coins":18.74,"cards":null,"role":42,"chips":0.14,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-1.12,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"392459":{"seat":1,"uid":392459,"coins":18.78,"cards":null,"role":40,"chips":0.84,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":-2.16,"autorebuy":null,"agentID":0,"autoTimeBank":0,"swap":0},"467007":{"seat":0,"uid":467007,"coins":13.98,"cards":null,"role":40,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":4.02,"autorebuy":null,"agentID":287812,"autoTimeBank":0,"swap":0},"474935":{"seat":3,"uid":474935,"coins":13.86,"cards":null,"role":40,"chips":0.04,"chips_round":0,"bestp":null,"sitout":false,"stepaway":false,"unseatNB":false,"needLeave":false,"topup":0,"cashout":0,"ready":false,"waiting":null,"postblind":false,"calltime":-1,"winnings":3.9,"autorebuy":null,"agentID":474935,"autoTimeBank":0,"swap":0}},"game_status":{"max_chip":0.84,"last_raise":2.74,"sidepots":[2.74],"allpass":false,"preop":[]},"game_info":{"gamers_count":1,"dealer_seat":3,"shared_cards":[22,36,50],"pot":2.74,"state":4,"game_counter":591,"insurance_chips":0,"insurance_prepay":0,"insuranceMulti":[],"running":true,"type":1},"countdown":{"seat":-1,"sec":0},"gamer_prompt":{"fold":null,"check":null,"call":null,"raise":null,"all_in":null,"ready":null,"bet":null},"roomID":"14625_2889856","ts":1645204947394,"seqno":591}}
+[2022-02-18 08:22:27.236]
+logMessage :
+[Response]
+route: onMsg(0) | {"route":"onMsg","event":"gameover","data":{"game_result":{"allpots":[2.74],"cards":[null],"seats":{"376280":{"seat":2,"uid":376280,"coins":87.22,"cards":[0,0],"chips":0.84,"prize":[2.6],"chipsDiff":[1.76],"swap":0}},"patterns":[null],"lightcards":[[]],"cardsMulti":[],"seatsMulti":[],"patternsMulit":[],"lightcardsMulti":[],"shared_cardsMulti":[],"jackpotResult":0,"jackpotResultList":0},"game_info":{"gamers_count":1,"dealer_seat":3,"shared_cards":[22,36,50],"pot":2.74,"state":0,"game_counter":591,"insurance_chips":0,"insurance_prepay":0,"insuranceMulti":[],"running":true,"type":1},"game_status":{"max_chip":0.84,"last_raise":2.74,"sidepots":[2.74],"allpass":false,"preop":[]},"gamer_prompt":{"fold":null,"check":null,"call":null,"raise":null,"all_in":null,"ready":null,"bet":null},"roomID":"14625_2889856","ts":1645204947987,"seqno":591}}

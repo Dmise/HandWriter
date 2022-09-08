@@ -1,0 +1,27 @@
+*** FLOP *** [5c 5h 2h]
+Undefined: bets $2.8
+Undefined: folds
+Undefined: calls $2.8
+*** TURN *** [5c 5h 2h] [5h]
+Undefined: checks
+Undefined: bets $8.4
+Undefined: folds
+No username: doesn't show hand
+No username collected $ from pot
+*** SUMMARY ***
+Total pot $8.4 | Rake $0.42
+Board [5c 5h 2h 5h]
+Suprema Hand #583: ($0.1/$0.2) undefined game type [2022/02/18 17:13:57 UTC]	
+Table TableName 6-max Seat #2 is the button
+Seat 0: Sampaio1 ($9.96 in chips)
+Seat 1: Luiz Morais1 ($6.28 in chips)
+Seat 2: Arley ($92.63 in chips)
+Seat 3: alanspfc ($0 in chips)
+Seat 5: Poker_vtp4e ($19.72 in chips)
+Poker_vtp4e: posts small blind $0.1
+Sampaio1: posts big blind $0.2
+Luiz Morais1: raises all in $6.28 to $6.28
+Arley: folds
+Poker_vtp4e: folds
+Sampaio1: calls $6.08
+Luiz Morais1: raises all in $0.00 to $0.00

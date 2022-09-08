@@ -1,0 +1,437 @@
+*** FLOP *** [5c 5h 2h]
+Undefined: bets $2.8
+Undefined: folds
+Undefined: calls $2.8
+*** TURN *** [5c 5h 2h] [5h]
+Undefined: checks
+Undefined: bets $8.4
+Undefined: folds
+No username: doesn't show hand
+No username collected $ from pot
+*** SUMMARY ***
+Total pot $8.4 | Rake $0.42
+Board [5c 5h 2h 5h]
+Suprema Hand #583: ($0.1/$0.2) undefined game type [2022/02/18 17:13:57 UTC]	
+Table TableName 6-max Seat #2 is the button
+Seat 0: Sampaio1 ($9.96 in chips)
+Seat 1: Luiz Morais1 ($6.28 in chips)
+Seat 2: Arley ($92.63 in chips)
+Seat 3: alanspfc ($0 in chips)
+Seat 5: Poker_vtp4e ($19.72 in chips)
+Poker_vtp4e: posts small blind $0.1
+Sampaio1: posts big blind $0.2
+Luiz Morais1: raises all in $6.28 to $6.28
+Arley: folds
+Poker_vtp4e: folds
+Sampaio1: calls $6.08
+Luiz Morais1: raises all in $0.00 to $0.00
+*** SHOW DOWN ***
+Sampaio1: doesn't show hand
+Luiz Morais1: doesn't show hand
+Sampaio1 collected $12,22 from pot
+*** SUMMARY ***
+Total pot $12.82 | Rake $0.60
+Board []
+Seat 0: Sampaio1 (big blind) collected ($12.22)
+Seat 1: Luiz Morais1 folded before Flop
+Seat 2: Arley (button) folded before Flop (didn't bet)
+Seat 3: alanspfc
+Seat 5: Poker_vtp4e (small blind) folded before Flop
+Suprema Hand #584: ($0.1/$0.2) undefined game type [2022/02/18 17:14:29 UTC]	
+Table TableName 6-max Seat #5 is the button
+Seat 0: Sampaio1 ($15.86 in chips)
+Seat 1: Luiz Morais1 ($0 in chips)
+Seat 2: Arley ($92.59 in chips)
+Seat 3: alanspfc ($0 in chips)
+Seat 5: Poker_vtp4e ($19.58 in chips)
+Sampaio1: posts small blind $0.1
+Arley: posts big blind $0.2
+Poker_vtp4e: raises $0.4 to $0.4
+Sampaio1: calls $0.3
+Arley: calls $0.2
+*** FLOP *** [Jc Jd Tc]
+Sampaio1: checks
+Arley: checks
+Poker_vtp4e: bets $0.54
+Sampaio1: folds
+Arley: folds
+Uncalled bet ($0.54) returned to Poker_vtp4e
+Poker_vtp4e: doesn't show hand
+Poker_vtp4e collected $1.28 from pot
+*** SUMMARY ***
+Total pot $1.32 | Rake $0.04
+Board [Jc Jd Tc]
+Seat 0: Sampaio1 (small blind) folded on the Flop
+Seat 1: Luiz Morais1
+Seat 2: Arley (big blind) folded on the Flop
+Seat 3: alanspfc
+Seat 5: Poker_vtp4e (button) collected ($1.28)
+Suprema Hand #585: ($0.1/$0.2) undefined game type [2022/02/18 17:15:02 UTC]	
+Table TableName 6-max Seat #0 is the button
+Seat 0: Sampaio1 ($15.42 in chips)
+Seat 2: Arley ($92.15 in chips)
+Seat 5: Poker_vtp4e ($20.42 in chips)
+Arley: posts small blind $0.1
+Poker_vtp4e: posts big blind $0.2
+Sampaio1: calls $0.2
+Arley: calls $0.1
+Poker_vtp4e: checks
+*** FLOP *** [Jh 2h 6h]
+Arley: checks
+Poker_vtp4e: checks
+Sampaio1: checks
+*** TURN *** [Jh 2h 6h] [6c]
+Arley: bets $0.72
+Poker_vtp4e: calls $0.72
+Sampaio1: folds
+*** RIVER *** [Jh 2h 6h 6c] [4c]
+Arley: checks
+Poker_vtp4e: checks
+*** SHOW DOWN ***
+Arley: doesn't show hand
+Poker_vtp4e: doesn't show hand
+Poker_vtp4e collected $2,1 from pot
+*** SUMMARY ***
+Total pot $2.16 | Rake $0.06
+Board [Jh 2h 6h 6c 4c]
+Seat 0: Sampaio1 (button) folded on the Turn
+Seat 2: Arley (small blind) folded on the River
+Seat 5: Poker_vtp4e (big blind) collected ($2.1)
+Suprema Hand #586: ($0.1/$0.2) undefined game type [2022/02/18 17:16:35 UTC]	
+Table TableName 6-max Seat #4 is the button
+Seat 0: Sampaio1 ($15.18 in chips)
+Seat 1: Garopaba ($20 in chips)
+Seat 2: Arley ($91.19 in chips)
+Seat 3: gloker ($9.96 in chips)
+Seat 4: MolhoCaipira ($20 in chips)
+Seat 5: Poker_vtp4e ($21.56 in chips)
+Poker_vtp4e: posts small blind $0.1
+Sampaio1: posts big blind $0.2
+*** HOLE CARDS ***
+Dealt to gloker [9c Ad]
+Arley: raises $1.5 to $1.5
+gloker: folds
+Poker_vtp4e: raises $5.15 to $5.15
+Sampaio1: folds
+Arley: calls $3.75
+*** FLOP *** [6c 6d Td]
+Poker_vtp4e: checks
+Arley: checks
+*** TURN *** [6c 6d Td] [Kd]
+Poker_vtp4e: checks
+Arley: checks
+*** RIVER *** [6c 6d Td Kd] [Th]
+Poker_vtp4e: bets all in $16.31 to $16.31
+Arley: folds
+Uncalled bet ($16.31) returned to Poker_vtp4e
+Poker_vtp4e: doesn't show hand
+Poker_vtp4e collected $10.5 from pot
+*** SUMMARY ***
+Total pot $11.06 | Rake $0.56
+Board [6c 6d Td Kd Th]
+Seat 0: Sampaio1 (big blind) folded before Flop
+Seat 1: Garopaba
+Seat 2: Arley folded on the River
+Seat 3: gloker folded before Flop
+Seat 4: MolhoCaipira (button)
+Seat 5: Poker_vtp4e (small blind) collected ($10.5)
+Suprema Hand #587: ($0.1/$0.2) undefined game type [2022/02/18 17:17:51 UTC]	
+Table TableName 6-max Seat #5 is the button
+Seat 0: Sampaio1 ($14.94 in chips)
+Seat 1: Garopaba ($19.96 in chips)
+Seat 2: Arley ($85.9 in chips)
+Seat 3: gloker ($9.72 in chips)
+Seat 4: MolhoCaipira ($20 in chips)
+Seat 5: Poker_vtp4e ($26.77 in chips)
+Sampaio1: posts small blind $0.1
+Garopaba: posts big blind $0.2
+*** HOLE CARDS ***
+Dealt to gloker [5h Ad]
+gloker: calls $0.4
+Poker_vtp4e: folds
+Sampaio1: calls $0.3
+Garopaba: calls $0.2
+Arley: raises $1.2 to $1.2
+gloker: folds
+Sampaio1: folds
+Garopaba: calls $1.2
+*** FLOP *** [Jc 2d Kh]
+Arley: bets $4.2
+Garopaba: folds
+Uncalled bet ($4.2) returned to Arley
+Arley: doesn't show hand
+Arley collected $3.99 from pot
+*** SUMMARY ***
+Total pot $4.2 | Rake $0.21
+Board [Jc 2d Kh]
+Seat 0: Sampaio1 (small blind) folded before Flop
+Seat 1: Garopaba (big blind) folded on the Flop
+Seat 2: Arley collected ($3.99)
+Seat 3: gloker folded before Flop
+Seat 4: MolhoCaipira
+Seat 5: Poker_vtp4e (button) folded before Flop (didn't bet)
+Suprema Hand #588: ($0.1/$0.2) undefined game type [2022/02/18 17:18:48 UTC]	
+Table TableName 6-max Seat #0 is the button
+Seat 0: Sampaio1 ($14.5 in chips)
+Seat 1: Garopaba ($18.32 in chips)
+Seat 2: Arley ($88.25 in chips)
+Seat 3: gloker ($9.28 in chips)
+Seat 4: MolhoCaipira ($19.96 in chips)
+Seat 5: Poker_vtp4e ($26.73 in chips)
+Garopaba: posts small blind $0.1
+Arley: posts big blind $0.2
+*** HOLE CARDS ***
+Dealt to gloker [2h 5c]
+gloker: calls $0.2
+MolhoCaipira: checks
+Poker_vtp4e: folds
+Sampaio1: calls $0.2
+Garopaba: calls $0.1
+Arley: checks
+*** FLOP *** [9c Kh Qc]
+Garopaba: checks
+Arley: bets $1.24
+gloker: folds
+MolhoCaipira: folds
+Sampaio1: folds
+Garopaba: folds
+Uncalled bet ($1.24) returned to Arley
+Arley: doesn't show hand
+Arley collected $1.17 from pot
+*** SUMMARY ***
+Total pot $1.24 | Rake $0.07
+Board [9c Kh Qc]
+Seat 0: Sampaio1 (button) folded on the Flop
+Seat 1: Garopaba (small blind) folded on the Flop
+Seat 2: Arley (big blind) collected ($1.17)
+Seat 3: gloker folded on the Flop
+Seat 4: MolhoCaipira folded on the Flop
+Seat 5: Poker_vtp4e folded before Flop (didn't bet)
+Suprema Hand #589: ($0.1/$0.2) undefined game type [2022/02/18 17:19:42 UTC]	
+Table TableName 6-max Seat #1 is the button
+Seat 0: Sampaio1 ($14.26 in chips)
+Seat 1: Garopaba ($19.86 in chips)
+Seat 2: Arley ($89.18 in chips)
+Seat 3: gloker ($9.04 in chips)
+Seat 4: MolhoCaipira ($19.72 in chips)
+Seat 5: Poker_vtp4e ($26.69 in chips)
+Arley: posts small blind $0.1
+gloker: posts big blind $0.2
+*** HOLE CARDS ***
+Dealt to gloker [3d Ad]
+MolhoCaipira: folds
+Poker_vtp4e: folds
+Sampaio1: calls $0.2
+Garopaba: calls $0.2
+Arley: calls $0.1
+gloker: checks
+*** FLOP *** [Ah 9d 6d]
+Arley: bets $1.04
+gloker: raises $2.28 to $2.28
+Sampaio1: folds
+Garopaba: folds
+Arley: calls $1.24
+*** TURN *** [Ah 9d 6d] [Jc]
+Arley: checks
+gloker: bets all in $6.56 to $6.56
+Arley: folds
+Uncalled bet ($6.56) returned to gloker
+gloker: doesn't show hand
+gloker collected $5.32 from pot
+*** SUMMARY ***
+Total pot $5.6 | Rake $0.28
+Board [Ah 9d 6d Jc]
+Seat 0: Sampaio1 folded on the Flop
+Seat 1: Garopaba (button) folded on the Flop
+Seat 2: Arley (small blind) folded on the Turn
+Seat 3: gloker (big blind) collected ($5.32)
+Seat 4: MolhoCaipira folded before Flop (didn't bet)
+Seat 5: Poker_vtp4e folded before Flop (didn't bet)
+Suprema Hand #590: ($0.1/$0.2) undefined game type [2022/02/18 17:20:44 UTC]	
+Table TableName 6-max Seat #2 is the button
+Seat 0: Sampaio1 ($14.02 in chips)
+Seat 1: Garopaba ($19.62 in chips)
+Seat 2: Arley ($86.66 in chips)
+Seat 3: gloker ($11.84 in chips)
+Seat 4: MolhoCaipira ($19.68 in chips)
+Seat 5: Poker_vtp4e ($26.65 in chips)
+gloker: posts small blind $0.1
+MolhoCaipira: posts big blind $0.2
+*** HOLE CARDS ***
+Dealt to gloker [4d Th]
+Poker_vtp4e: folds
+Sampaio1: folds
+Garopaba: folds
+Arley: raises $0.8 to $0.8
+gloker: calls $0.7
+MolhoCaipira: calls $0.6
+*** FLOP *** [2h Ah Td]
+gloker: bets $0.2
+MolhoCaipira: folds
+Arley: calls $0.2
+*** TURN *** [2h Ah Td] [5d]
+gloker: bets $0.2
+Arley: calls $0.2
+*** RIVER *** [2h Ah Td 5d] [6h]
+gloker: checks
+Arley: checks
+*** SHOW DOWN ***
+Arley: doesn't show hand
+gloker: doesn't show hand
+gloker collected $3,26 from pot
+*** SUMMARY ***
+Total pot $3.44 | Rake $0.18
+Board [2h Ah Td 5d 6h]
+Seat 0: Sampaio1 folded before Flop (didn't bet)
+Seat 1: Garopaba folded before Flop (didn't bet)
+Seat 2: Arley (button) folded on the River
+Seat 3: gloker (small blind) collected ($3.26)
+Seat 4: MolhoCaipira (big blind) folded on the Flop
+Seat 5: Poker_vtp4e folded before Flop (didn't bet)
+Suprema Hand #591: ($0.1/$0.2) undefined game type [2022/02/18 17:21:37 UTC]	
+Table TableName 6-max Seat #3 is the button
+Seat 0: Sampaio1 ($13.98 in chips)
+Seat 1: Garopaba ($19.58 in chips)
+Seat 2: Arley ($85.42 in chips)
+Seat 3: gloker ($13.86 in chips)
+Seat 4: MolhoCaipira ($18.84 in chips)
+Seat 5: Poker_vtp4e ($26.61 in chips)
+MolhoCaipira: posts small blind $0.1
+Poker_vtp4e: posts big blind $0.2
+*** HOLE CARDS ***
+Dealt to gloker [8h 3c]
+Sampaio1: folds
+Garopaba: calls $0.2
+Arley: raises $0.8 to $0.8
+gloker: folds
+MolhoCaipira: folds
+Poker_vtp4e: calls $0.6
+Garopaba: calls $0.6
+*** FLOP *** [6d 4c 2h]
+Garopaba: checks
+Arley: bets $2.74
+Poker_vtp4e: folds
+Garopaba: folds
+Uncalled bet ($2.74) returned to Arley
+Arley: doesn't show hand
+Arley collected $2.6 from pot
+*** SUMMARY ***
+Total pot $2.74 | Rake $0.14
+Board [6d 4c 2h]
+Seat 0: Sampaio1 folded before Flop (didn't bet)
+Seat 1: Garopaba folded on the Flop
+Seat 2: Arley collected ($2.6)
+Seat 3: gloker (button) folded before Flop (didn't bet)
+Seat 4: MolhoCaipira (small blind) folded before Flop
+Seat 5: Poker_vtp4e (big blind) folded on the Flop
+Suprema Hand #592: ($0.1/$0.2) undefined game type [2022/02/18 17:22:35 UTC]	
+Table TableName 6-max Seat #4 is the button
+Seat 0: Sampaio1 ($13.94 in chips)
+Seat 1: Garopaba ($18.74 in chips)
+Seat 2: Arley ($87.18 in chips)
+Seat 3: gloker ($13.82 in chips)
+Seat 4: MolhoCaipira ($18.7 in chips)
+Seat 5: Poker_vtp4e ($25.77 in chips)
+Poker_vtp4e: posts small blind $0.1
+Sampaio1: posts big blind $0.2
+*** HOLE CARDS ***
+Dealt to gloker [9h 6h]
+Garopaba: calls $0.2
+Arley: calls $0.2
+gloker: calls $0.2
+MolhoCaipira: folds
+Poker_vtp4e: calls $0.1
+Sampaio1: checks
+*** FLOP *** [5h 4d 2c]
+Poker_vtp4e: checks
+Sampaio1: checks
+Garopaba: checks
+Arley: bets $1.24
+gloker: calls $1.24
+Poker_vtp4e: calls $1.24
+Sampaio1: folds
+Garopaba: folds
+*** TURN *** [5h 4d 2c] [Td]
+Poker_vtp4e: checks
+Arley: checks
+gloker: checks
+*** RIVER *** [5h 4d 2c Td] [2h]
+Poker_vtp4e: bets $3.7
+Arley: folds
+gloker: folds
+Uncalled bet ($3.7) returned to Poker_vtp4e
+Poker_vtp4e: doesn't show hand
+Poker_vtp4e collected $4.71 from pot
+*** SUMMARY ***
+Total pot $4.96 | Rake $0.25
+Board [5h 4d 2c Td 2h]
+Seat 0: Sampaio1 (big blind) folded on the Flop
+Seat 1: Garopaba folded on the Flop
+Seat 2: Arley folded on the River
+Seat 3: gloker folded on the River
+Seat 4: MolhoCaipira (button) folded before Flop (didn't bet)
+Seat 5: Poker_vtp4e (small blind) collected ($4.71)
+Suprema Hand #593: ($0.1/$0.2) undefined game type [2022/02/18 17:24:23 UTC]	
+Table TableName 6-max Seat #5 is the button
+Seat 0: Sampaio1 ($13.7 in chips)
+Seat 1: Garopaba ($18.5 in chips)
+Seat 2: Arley ($85.7 in chips)
+Seat 3: gloker ($12.34 in chips)
+Seat 4: MolhoCaipira ($18.66 in chips)
+Seat 5: Poker_vtp4e ($29 in chips)
+Sampaio1: posts small blind $0.1
+Garopaba: posts big blind $0.2
+*** HOLE CARDS ***
+Dealt to gloker [5d 9c]
+gloker: calls $0.4
+MolhoCaipira: folds
+Poker_vtp4e: raises $1.4 to $1.4
+Sampaio1: folds
+Garopaba: folds
+Arley: raises $1.0 to $1.0
+gloker: folds
+*** FLOP *** [4c 4d 3h]
+Arley: bets $3.74
+Poker_vtp4e: folds
+Uncalled bet ($3.74) returned to Arley
+Arley: doesn't show hand
+Arley collected $3.55 from pot
+*** SUMMARY ***
+Total pot $3.74 | Rake $0.19
+Board [4c 4d 3h]
+Seat 0: Sampaio1 (small blind) folded before Flop
+Seat 1: Garopaba (big blind) folded before Flop
+Seat 2: Arley collected ($3.55)
+Seat 3: gloker folded before Flop
+Seat 4: MolhoCaipira folded before Flop (didn't bet)
+Seat 5: Poker_vtp4e (button) folded on the Flop
+Suprema Hand #594: ($0.1/$0.2) undefined game type [2022/02/18 17:24:58 UTC]	
+Table TableName 6-max Seat #0 is the button
+Seat 0: Sampaio1 ($13.56 in chips)
+Seat 1: Garopaba ($19.96 in chips)
+Seat 2: Arley ($87.81 in chips)
+Seat 3: gloker ($11.9 in chips)
+Seat 4: MolhoCaipira ($18.62 in chips)
+Seat 5: Poker_vtp4e ($27.56 in chips)
+Garopaba: posts small blind $0.1
+Arley: posts big blind $0.2
+*** HOLE CARDS ***
+Dealt to gloker [8c 8h]
+gloker: raises $0.4 to $0.4
+MolhoCaipira: folds
+Poker_vtp4e: folds
+Sampaio1: calls $0.4
+Garopaba: calls $0.3
+Arley: calls $0.2
+*** FLOP *** [Ac 3d Kh]
+Garopaba: checks
+Arley: checks
+gloker: checks
+Sampaio1: checks
+*** TURN *** [Ac 3d Kh] [Jc]
+Garopaba: bets $1
+Arley: calls $1
+gloker: folds
+Sampaio1: calls $1
+*** RIVER *** [Ac 3d Kh Jc] [3h]
+Garopaba: bets $3.2

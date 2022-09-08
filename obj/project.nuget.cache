@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1C/dT5m8oYLcrXil5HwVVj3XmGjmh/DUxWCYpRLELUfe4K8fddiMFis+vwPStQBTvhG2/VLx5ZEmY1SRkgWbvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Docs\\Projects\\HellYeah\\Suprema\\SourceCode\\HandWriter\\HandWriter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dmise\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
